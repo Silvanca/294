@@ -1,0 +1,10 @@
+.field{
+    height: 400px;
+    width: 900px;
+    background-color: green;
+    margin-top: 1rem;
+}
+
+#football {
+    width: 50px;
+}

@@ -19,4 +19,6 @@ function check(e){
     }
 }
 
+document.g
+
 submit.addEventListener("click", check);
